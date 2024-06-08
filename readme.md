@@ -15,7 +15,7 @@ const thai = {
   code: [R, Python, Javascript, HTML, CSS],
   tools: [R Studio, Pandas, Numpy, Matplot, PowerBI],
   research: ["plan-breeding", "research-methodology"],
- challenge: "I am doing the #100DaysOfDataScience challenge focused on R and R Studio"
+ challenge: "I am doing the #100DaysOfDataScience challenge"
 }
 ```
 
