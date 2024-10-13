@@ -3,7 +3,7 @@
 <p><em>Masters Student in Plant Breeding and Seed Science (Crop Sciences)</em></p> 
 <p><em>Ex-Banker (Canara Bank: India's 4th Largest Government Bank)</em></p>
 <p><em>Google Certified Data Analyst</em></p>
-<p><em>At <a href="https://www.uni-hohenheim.de/en">University of Hohenheim</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Taught Agriculture at <a href="https://agridots.com/">AgriDots</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<p><em>At <a href="https://www.uni-hohenheim.de/en">University of Hohenheim</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer of Agricultural Platform: at <a href="https://agridots.com/">AgriDots</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 [![Linkedin: Nadim](https://img.shields.io/badge/-nfornadim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nfornadim/)](https://www.linkedin.com/in/nfornadim/)
 [![GitHub Nadim](https://img.shields.io/github/followers/nfornadimkhan?label=follow&style=social)](https://github.com/nfornadimkhan)
